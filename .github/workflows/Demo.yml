@@ -1,0 +1,8 @@
+Nom : hello-world
+on : push
+Emplois :
+  Mon-Travail :
+    Fonctionne-CONTINU : Ubuntu-Latest
+    Étapes :
+      - Nom : My-Step
+        run : écho « Bonjour tout le monde ! »
